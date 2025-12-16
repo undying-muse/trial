@@ -148,7 +148,6 @@ Coding session:
 
 Go to the file containing this and the files to be compared using the **cd** command
 
-
 [^1]: Splicing: is the mRNA maturation by cutting the introns out of the mRNA
 
 
